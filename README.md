@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khaoua Ayoub</h1>
 <h3 align="center">A passionate Full stack developer from Morocco</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoubkhaoua&label=Profile%20views&color=0e75b6&style=flat" alt="ayoubkhaoua" /> </p>
-
 - 🌱 I’m currently learning **Laravel, React**
 
 - 👯 I’m looking to collaborate on **Laravel and react projects**
@@ -26,3 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayoubkhaoua&show_icons=true&locale=en" alt="ayoubkhaoua" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubkhaoua&" alt="ayoubkhaoua" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoubkhaoua&label=Profile%20views&color=0e75b6&style=flat" alt="ayoubkhaoua" /> </p>
