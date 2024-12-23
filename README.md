@@ -26,4 +26,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubkhaoua&" alt="ayoubkhaoua" /></p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoubkhaoua&label=Profile%20views&color=0e75b6&style=flat" alt="ayoubkhaoua" /> </p>
+[![](https://visitcount.itsvg.in/api?id=AyoubKhaoua&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
